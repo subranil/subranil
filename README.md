@@ -16,4 +16,5 @@
 <img height="32" src="https://raw.githubusercontent.com/subranil/subranil/master/res/ionic.png" hspace="10">
 <img height="32" src="https://raw.githubusercontent.com/subranil/subranil/master/res/flutter.png" hspace="10">
 <img height="32" src="https://raw.githubusercontent.com/subranil/subranil/master/res/kotlin.png" hspace="10">
+<img height="32" src="https://raw.githubusercontent.com/subranil/subranil/master/res/dart.png" hspace="10">
 </p>
